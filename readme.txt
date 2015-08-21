@@ -1,2 +1,2 @@
-have a good today
+have git
 git is free software
