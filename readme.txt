@@ -1,1 +1,2 @@
-hello git
+have a good today
+git is free software
